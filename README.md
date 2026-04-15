@@ -1,9 +1,10 @@
 # Minecraft-Repository
-各种编程语言制作的我的世界，这里是Minecraft Repository
+这里是Minecraft Repository，各种语言制作的我的世界的收容所
 这里我们将会提供各种版本，有各种其他编程语言制作的Minecraft（我的世界）
 现在已经收录了scratch版，HTML版，你只需下载，点开压缩包里的exe或者HTML文件即可游玩
 不需要你下载编程软件打开它，程序是编译完成的
 以下是各个文件的电脑配置需求
+—————————————————————————————————————————————————————————————————————————————
 scratch Minecraft client
 CPU 不低于 Intel i3 第7代
 内存 不低于16GB（程序运行时占用聂村大概为6GB，加上系统运行你需要这么多）
